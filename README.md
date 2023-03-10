@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/aimenggithub/aimenggithub/main/photo/photo.jpg" width="30%">
+
 Greetings, 
 
 Dear professor, classmates and friends let me briefly indroduce myself.  
