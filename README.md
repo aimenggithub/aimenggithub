@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/aimenggithub/aimenggithub/main/photo/photo.jpg" width="30%">
+<p align="center"> 
+    <img src="https://raw.githubusercontent.com/aimenggithub/aimenggithub/main/photo/photo.jpg" width="30%"> 
+</p>
 
 Greetings, 
 
