@@ -18,6 +18,7 @@ Besides traveling I also enjoy reading, cooking, eating, outing, and just having
 All my previous schooling was in the fields of education, teaching and translation, therefore I feel excited for this new journey into the world of Business Administration and Technology Management. 
 
 In the course of this program I hope to have a quality time discovering/exploring all the new and exciting things it has to offer.
+
 Wooow, my brief introduction turned out to be not so brief, anyway thank you for your time and I am looking forward to our next project. 
 
 
@@ -46,4 +47,5 @@ Languages:
 * Russian ( full professional proficiency )
 * English ( professional working proficiency )
 * Chinese ( intermediate )
+
 Considering learning Japanese & Korean & or Spanish ( zero proficiency )
